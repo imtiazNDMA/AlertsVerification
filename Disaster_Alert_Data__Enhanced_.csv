@@ -1,0 +1,170 @@
+Date,Province,District,Type,Occurred,Alerts,Month,Week,Alert Outcome
+8/6/2025,KPK,"Chitral, Dir, Swat, Kalam, Mansehra, Battagram, Abbottabad, Haripur, Swabi, Mardan, Peshawar, Charsadda, Kohat, Hangu, Bannu, Dera Ismail Khan",rain,1,1,2025-08,2025-08-04/2025-08-10,True Positive
+8/6/2025,GB & AJK,"Gilgit Baltistan and AJK, including Gilgit, Skardu, Hunza, Astore, Diamir, Ghanche, Muzaffarabad, Neelum Valley, Haveli, Bagh, Ponch. However widespread heavy rainfall is expected in upper KP across Chitral, Dir, Kohistan ",landslide,0,1,2025-08,2025-08-04/2025-08-10,False Positive
+8/6/2025,GB,"Kashmir region (including (Neelum valley, Muzaffarabad, Rawalakot, Poonch, Hattian, Bagh, Haveli, Sudhanoti, Kotli, Bhimber, Mirpur) from August 6 to 7 and Gilgit-Baltistan (including Diamir, Skardu, Hunza, Shiger, Ghanche ",flash flood,1,1,2025-08,2025-08-04/2025-08-10,True Positive
+8/6/2025,Punjab,"Punjab including Islamabad, Rawalpindi, Jhelum, Chakwal, Attock, Mianwali, Khushab, Sargodha, Faisalabad, Gujar Khan, Gujrat, Gujranwala, Sailkot Narowal, Hafizabad, Chiniot, Sheikhupura, Lahore, Kasur, Okara, Jhang, Nankana Sahib",rain,1,1,2025-08,2025-08-04/2025-08-10,True Positive
+8/5/2025,Punjab,"Islamabad, Rawalpindi, Jhelum, Chakwal, Talagang, Mandi Bahauddin, Khushab, Gujrat, Gujranwala, Hafizabad, Lahore, Sialkot, Narowal, Mianwali",rain,1,1,2025-08,2025-08-04/2025-08-10,True Positive
+8/5/2025,KPK,"Chitral, Dir, Swat, Kalam, Mansehra, Battagram, Abbottabad, Haripur, Swabi, Mardan, Nowshera, Peshawar, Charsadda, Kohat, Lakki Marwat, Parachinar, Bannu, Dera Ismail Khan ",rain,1,1,2025-08,2025-08-04/2025-08-10,True Positive
+8/5/2025,AJK,"Neelum Valley, Bagh, Kotli, Rawalakot, Muzaffarabad, Sharda, Haveli ",rain,1,1,2025-08,2025-08-04/2025-08-10,True Positive
+8/4/2025,AJK,"Neelum Valley, Bagh, Kotli, Rawalakot, Muzaffarabad, Sharda, Haveli",rain,1,1,2025-08,2025-08-04/2025-08-10,True Positive
+8/4/2025,KPK,"Chitral, Dir, Swat, Kalam, Mansehra, Battagram, Abbottabad, Haripur, Swabi, Mardan, Peshawar, Charsadda, Kohat",rain,1,1,2025-08,2025-08-04/2025-08-10,True Positive
+8/4/2025,Punjab,"Islamabad, Rawalpindi, Jhelum, Chakwal, Talagang, Mandi Bahauddin, Khushab, Gujrat, Gujranwala, Hafizabad, Chiniot, Lahore, Sialkot",rain,1,1,2025-08,2025-08-04/2025-08-10,True Positive
+8/4/2025,Punjab,"Pothohar region including Islamabad, Rawalpindi, Lahore, Gujranwala",flood,1,1,2025-08,2025-08-04/2025-08-10,True Positive
+8/4/2025,Punjab,punjab,flood,1,1,2025-08,2025-08-04/2025-08-10,True Positive
+8/3/2025,Pothohar Region,"Pothohar region including Islamabad, Rawalpindi, Chakwal, Attock, Jhelum",rain,1,1,2025-08,2025-07-28/2025-08-03,True Positive
+8/1/2025,GB,"Gilgit, Skardu, Hunza, Astore, Diamir, Ghanche, Muzaffarabad, Neelum Valley, Haveli, Bagh, Ponch. Chitral, Dir, Kohistan ",landslide,1,1,2025-08,2025-07-28/2025-08-03,True Positive
+8/1/2025,Pothohar Region,"Pothohar region, including Islamabad, Rawalpindi, Attock, Chakwal",rain,1,1,2025-08,2025-07-28/2025-08-03,True Positive
+7/31/2025,Punjab,"Multan, Khanewal, Vehari, Bahawalpur, Bahawalnagar, Rahim Yar Khan, Dera Ghazi Khan, Lahore, Gujranwala, Gujrat, Faisalabad, Sargodha, Khushab, and parts of the Potohar region",rain,1,1,2025-07,2025-07-28/2025-08-03,True Positive
+7/31/2025,KPK,"Chitral, Dir, Swat, Kalam, Mansehra, Battagram, Abbottabad, Haripur, Swabi, Mardan, Peshawar, Charsadda, Kohat, Hangu, Bannu, Lakki Marwat, Dera Ismail Khan",rain,1,1,2025-07,2025-07-28/2025-08-03,True Positive
+7/30/2025,KPK,"Cuitral, Dir, Swat, Kalam, Mansehra, Battagram, Abbottabad, Haripur, Swabi, Mardan, Peshawar, Charsadda, Kohat, Hangu, Bannu, Lakki Marwat, Dera Ismail Khan",rain,1,1,2025-07,2025-07-28/2025-08-03,True Positive
+7/30/2025,Punjab,"Islamabad, Rawalpindi, Attock, Jhelum, Chakwal, Mandi Bahauddin, Gujrat, Gujranwala, Sargodha, Khushab, Faisalabad, Sialkot, Lahore, Narowal, Hafizabad, Kasur, Okara, Sahiwal ",rain,1,1,2025-07,2025-07-28/2025-08-03,True Positive
+7/30/2025,Punjab,upper/central parts of the country,flood,1,1,2025-07,2025-07-28/2025-08-03,True Positive
+7/30/2025,KPK & GB,"Badswat, Hinarchi, Tersat Hundur, Darkut, Ishkomen, Shisper, Reshun, Brep, Booni, Sardar Gol, Arkari",glof,1,1,2025-07,2025-07-28/2025-08-03,True Positive
+7/29/2025,KPK,"Chitral, Dir, Swat, Kalam, Mansehra, Battagram, Abbottabad, Haripur, Swabi, Mardan, Peshawar, Charsadda, Kohat, Hangu, Bannu, Lakki Marwat, Dera Ismail Khan ",rain,1,1,2025-07,2025-07-28/2025-08-03,True Positive
+7/29/2025,Punjab,"Islamabad, Rawalpindi, Attock, Jhelum, Chakwal, Mandi Bahauddin, Gujrat, Gujranwala, Sargodha, Khushab, Faisalabad, Sialkot, Lahore, Narowal, Hafizabad, Kasur, Okara, Sahiwal ",rain,1,1,2025-07,2025-07-28/2025-08-03,True Positive
+7/29/2025,"GB, KPK & AJK","Gilgit, Skardu, Hunza, Astore, Diamir, Ghanche, Muzaffarabad, Neelum Valley, Haveli, Bagh, Ponch,upper KP across Chitral, Dir, Kohistan ",landslide,1,1,2025-07,2025-07-28/2025-08-03,True Positive
+7/28/2025,KPK,"Mansehra, Battagram, Abbottabad, Haripur, Swabi, Mardan, Peshawar, Charsadda, Kohat",rain,1,1,2025-07,2025-07-28/2025-08-03,True Positive
+7/28/2025,Punjab,"Islamabad, Rawalpindi, Attock, Jhelum, Chakwal, Mandi Bahauddin, Gujrat, Gujranwala, Narowal, Hafizabad, Sialkot, Sargodha, Faisalabad, Lahore, Kasur, Okara, Sahiwal, Pakpattan, Chiniot",rain,1,1,2025-07,2025-07-28/2025-08-03,True Positive
+7/28/2025,KPK,Central & Lower KPK,flash flood,1,1,2025-07,2025-07-28/2025-08-03,True Positive
+7/28/2025,Punjab,"Sargodha, Hafizabad, Gujranwala, Gujrat, Sailkot, Faisalabad, Lahore, Narowal, DG Khan, Rajanpur and Rahim Yar Khan.",flood,0,1,2025-07,2025-07-28/2025-08-03,False Positive
+7/28/2025,Punjab,"D.G Khan and Rajanpur torrents may get activated again with medium Flows. b) In northeastern Punjab, Nullah's originating from the Pir Panjal range may experience significant increase in their flows up to medium levels.",flood,0,1,2025-07,2025-07-28/2025-08-03,False Positive
+7/28/2025,GB & AJK,"Chitral valley i.e. Booni & reshun, Hunza, Astore, Shigar, and Neelum Valley, Muzaffarabad and Bagh. ",flash flood,1,1,2025-07,2025-07-28/2025-08-03,True Positive
+7/24/2025,"GB, KPK & AJK","Gilgit, Skardu, Hunza, Astore, Diamir, Ghanche, Muzaffarabad, Neelum Valley, Haveli, Bagh, Chitral, Dir, Kohistan ",landslide,1,1,2025-07,2025-07-21/2025-07-27,True Positive
+7/24/2025,Punjab,"Islamabad, Rawalpindi, Attock, Jhelum, Chakwal, Mianwali, Mandi Bahauddin, Gujrat, Gujranwala, Sahiwal, Sargodha, Faisalabad, Narowal, Hafizabad, Sheikhupura, Lahore, Kasur, Okara, Sialkot, Pakpattan, Multan, Khanewal, Burewala, Dera Ghazi Khan",rain,1,1,2025-07,2025-07-21/2025-07-27,True Positive
+7/23/2025,KPK,"Chitral, Dir, Swat, Kalam, Mansehra, Battagram, Abbottabad, Haripur, Swabi, Mardan, Peshawar, Charsadda, Kohat, Hangu",rain,1,1,2025-07,2025-07-21/2025-07-27,True Positive
+7/23/2025,Punjab,"Islamabad, Rawalpindi, Jhelum, Chakwal, Talagang, Mandi Bahauddin, Gujrat, Gujranwala, Narowal, Hafizabad, Chiniot, Lahore, Sialkot, Sargodha, Faisalabad, Kasur, Okara, Sahiwal, Pakpattan",rain,1,1,2025-07,2025-07-21/2025-07-27,True Positive
+7/22/2025,Upper KPK & GB,"Reshun, Brep, Booni, Sardar Gol, Thalu 1 & 2, Hinarchi, Hundur, Darkut, Badswat, Ishkomen, Arkari.",glof,0,1,2025-07,2025-07-21/2025-07-27,False Positive
+7/22/2025,Pakistan,"Kabul, Indus, Jhelum and Chenab Hunza & Shigar River Musakhel, Sherani , Zhob, Sibi ",flood,0,1,2025-07,2025-07-21/2025-07-27,False Positive
+7/22/2025,GB & AJK,"Gilgit, Hunza, Skardu, Astore, Chilas, Nagar Neelum Valley, Bagh, Kotli, Rawalakot, Muzaffarabad, Sharda, Haveli ",rain,1,1,2025-07,2025-07-21/2025-07-27,True Positive
+7/22/2025,KPK,"Chitral, Dir, Swat, Kalam, Mansehra, Battagram, Abbottabad, Haripur, Swabi, Mardan, Peshawar, Charsadda, Kohat, Hangu",rain,1,1,2025-07,2025-07-21/2025-07-27,True Positive
+7/22/2025,Punjab,"Islamabad/Rawalpindi, Gujranwala, Lahore, Sialkot, Sargodha, Faisalabad, Multan, Khanewal, Sahiwal, Lodhran, Muzaffargarh, Kot Addu, Taunsa, Rajanpur, Bahawalpur. Lahore, Narowal",flash flood,1,1,2025-07,2025-07-21/2025-07-27,True Positive
+7/22/2025,Punjab,"Islamabad, Rawalpindi, Jhelum, Chakwal, Talagang, Mandi Bahauddin, Gujrat, Gujranwala, Narowal, Hafizabad, Chiniot, Lahore, Sialkot, Sargodha, Faisalabad, Kasur, Okara, Sahiwal, Pakpattan",rain,1,1,2025-07,2025-07-21/2025-07-27,True Positive
+7/21/2025,Punjab,"Islamabad, Rawalpindi, Jhelum, Chakwal, Talagang, Mandi Bahauddin, Gujrat, Gujranwala, Narowal, Hafizabad, Chiniot, Lahore, Sialkot, Sargodha, Faisalabad, Kasur, Okara, Sahiwal, Pakpattan",rain,1,1,2025-07,2025-07-21/2025-07-27,True Positive
+7/21/2025,Balochistan,"Quetta, Zhob, Ziarat, Kalat, Loralai, Nushki, Barkhan, Sibi, Dera Bugtti, Kharan, Khuzdar, Washuk",rain,1,1,2025-07,2025-07-21/2025-07-27,True Positive
+7/21/2025,KPK,"Chitral, Dir, Swat, Kalam, Mansehra, Battagram, Abbottabad, Haripur, Swabi, Mardan, Peshawar, Charsadda, Kohat, Hangu",rain,1,1,2025-07,2025-07-21/2025-07-27,True Positive
+7/20/2025,Potohar Region,"Attock, Chakwal, Jhelum Rawalpindi, Islamabad",rain,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/19/2025,Balochistan,"Quetta, Zhob, Loralai, Kohlu, Sherani, Ziarat, Kalat, Barkhan, Awaran, Naseerabad, Dera Bugti, Sibi, Surab, Khuzdar",rain,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/19/2025,Sindh,"Sukkur, Larkana, Dadu, Jacobabad, Benazirabad, Khairpur, Tharparkar, Mirpur Khas, Umerkot, Thatta, Badin, Hyderabad, Tando Allahyar, Tando Muhammad Khan, Karachi",rain,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/18/2025,GB/AJK,"Gilgit Baltistan, AJ&K , Indian Occupied Jammu Kashmir from 21st to 24th July 2025",flash flood,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/18/2025,KPK,"Central & Lower KPK, AJ&K , Indian Occupied Jammu Kashmir, North Eastern Parts of Punjab till 26th July 2025.",flash flood,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/18/2025,KPK,"Central & Lower KPK, AJ&K , Indian Occupied Jammu Kashmir, North Eastern Parts of Punjab till 26th July 2025.",flash flood,0,1,2025-07,2025-07-14/2025-07-20,False Positive
+7/18/2025,Punjab,"Islamabad/Rawalpindi, Gujranwala, Lahore, Sialkot, Sargodha, Faisalabad, Multan, Khanewal, Sahiwal, Lodhran, Muzaffargarh, Kot Addu, Taunsa, Rajanpur, Bahawalpur. Lahore, Narowal",flood,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/18/2025,Sindh,"Hyderabad, Sukkur, Jacobabad, Thatta, Badin, Larkana, Jamshoro, Nawabshah, Karachi and Mirpurkhas",flood,0,1,2025-07,2025-07-14/2025-07-20,False Positive
+7/18/2025,Sindh,"Hyderabad, Sukkur, Jacobabad, Thatta, Badin, Larkana, Jamshoro, Nawabshah, Karachi and Mirpurkhas",flood,0,1,2025-07,2025-07-14/2025-07-20,False Positive
+7/18/2025,Sindh,"Sukkur, Larkana, Dadu, Jacobabad, Benazirabad, Khairpur, Tharparkar, Mirpur Khas, Umerkot, Thatta, Badin, Hyderabad, Tando Allahyar, Tando Muhammad Khan, Karachi,",rain,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/17/2025,KPK,"Chitral, Dir, Swat, Kalam, Malakand, Battagram, Balakot, Mansehra, Swabi, Shangla, Haripur, Abbottabad, Mardan, Peshawar, Charsadda, Nowshera, Kohat, Hangu, Waziristan, Bannu, Lakki Marwat",rain,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/17/2025,GB,"Gilgit, Skardu, Hunza, Astore, Diamir, and Ghanche. Additionally, widespread heavy rainfall is expected across AJK in Muzaffarabad, Neelum Valley, Rawalakot, Haveli, Bagh, Ponch, Sadnothi",landslide,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/17/2025,GB and KP,"Reshun, Brep, Sardar Gol, Booni, Arkari, Thalu 1&2, Darkut, Badswat, Ishkomen, Hinarchi, Tersat Hundur",glof,0,1,2025-07,2025-07-14/2025-07-20,False Positive
+7/17/2025,Islamabad/Rawalpindi,Nala Lai,flash flood,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/17/2025,Punjab,"Islamabad, Rawalpindi, Chakwal, Attock, Jhelum, Khushab, Sargodha, Gujrat, Gujranwala, Faisalabad, Sialkot, Narowal, Lahore, Okara, Kasur, Sheikhupura, Hafizabad",rain,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/16/2025,Punjab,"Islamabad, Rawalpindi, Chakwal, Fateh Jhang, Talagang, Attock, Gujrat, Mandi Bahauddin, Gujanwala, Hafizabad,Lahore, Kasur, Okara, Sargodha, Sahiwal, Faisalabad, Shorkot, Bahawalnagar, Multan, Bahawalpur",rain,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/16/2025,KPK,"Chitral, Dir, Swat, Kalam, Malakand, Battagram, Balakot, Mansehra, Swabi, Shangla, Haripur, Abbottabad, Mardan, Peshawar, Charsadda, Nowshera, Kohat, Hangu",rain,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/15/2025,Sindh,"Karachi, Hyderabad, Thatta, Badin, Mirpur Khas, Tharparkar, Umerkot, Sanghar, Larkana, Dadu, Jacobabad, Kashmore, Shikarpur, Khairpur, and Sukkur",rain,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/15/2025,Sindh,"Hyderabad, Sukkur, Thatta, Badin, Larkana, Jamshoro, Nawabshah, Karachi and Mirpurkhas",flood,0,1,2025-07,2025-07-14/2025-07-20,False Positive
+7/15/2025,Gilgit / AJK,"Gilgit Baltistan, River Hunza & Shigar River Ghujerab River, Shimshal River, Hispar River, Braldu River and Hushe & Saltoro River) b) Possible flash flooding in local streams, nullahs, and river tributaries of River Jhelum. ",flash flood,0,1,2025-07,2025-07-14/2025-07-20,False Positive
+7/15/2025,KPK,"Chitral, Dir, Swat, Kalam, Malakand, Battagram, Balakot, Mansehra, Swabi, Shangla, Haripur, Abbottabad, Mardan, Peshawar, Charsadda, Nowshera, Kohat, Hangu, Waziristan, Bannu, Lakki Marwat",flash flood,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/15/2025,Balochistan,"Quetta, Zhob, Kohlu, Sherani, Ziarat, Kalat, Barkhan, Awaran, Naseerabad, Dera Bugti, Sibi",flash flood,0,1,2025-07,2025-07-14/2025-07-20,False Positive
+7/15/2025,Balochistan,"Quetta, Zhob, Kohlu, Sherani, Ziarat, Kalat, Barkhan, Awaran, Naseerabad, Dera Bugti, Sibi",rain,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/15/2025,Punjab,"Islamabad/Rawalpindi, D.G. Khan, Northeast/Upper Punjab",flash flood,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/15/2025,KPK,"Chitral, Dir, Swat, Kalam, Malakand, Battagram, Balakot, Mansehra, Swabi, Shangla, Haripur, Abbottabad, Mardan, Peshawar, Charsadda, Nowshera, Kohat, Hangu, Waziristan, Bannu, Lakki Marwat",rain,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/15/2025,Punjab,"Islamabad/Rawalpindi, Gujranwala, Lahore, Sialkot, Sargodha, Faisalabad, Multan, Khanewal, Sahiwal, Muzaffargarh, Taunsa, Rajanpur, Bahawalpur, Rahim yar khan.",flood,0,1,2025-07,2025-07-14/2025-07-20,False Positive
+7/15/2025,Punjab,"Islamabad, Rawalpindi, Chakwal, Jhelum, Attock, Mianwali, Talagang, Faisalabad, Sahiwal, Sargodha, Gujrat, Gujranwala, Wazirabad, Lahore, Chiniot, Toba Tek Singh, Narowal, Okara, Kasur, Jhang, Multan, Khanewal, Bahawalnagar, Bahawalpur, Rahim Yar Khan, Rajanpur, Layyah, Muzaffargarh",rain,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/14/2025,Balochistan,"Zhob, Ziarat, Kalat, Qilla Saifullah, Loralai, Barkhan, Awaran, Khuzdar, Barkhan, Dera Bugti, Sibi",rain,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/14/2025,Punjab,"Islamabad, Rawalpindi, Chakwal, Talagang, Faisalabad, Sahiwal, Sargodha, Chiniot, Toba Tek Singh, Narowal, Okara, Jhang, Bahawalnagar, Multan, Khanewal, Bahawalpur",rain,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/14/2025,KPK,"Chitral, Dir, Swat, Madyan, Kalam, Malakand, Battagram, Balakot, Mansehra, Swabi, Swat, Haripur, Abbottabad, Mardan, Peshawar, Kohat, Hangu, Waziristan, Bannu, Lakki Marwat",rain,1,1,2025-07,2025-07-14/2025-07-20,True Positive
+7/13/2025,Punjab,"Islamabad, Rawalpindi, Attock, Chakwal, Jhelum, Gujrat, Mandi Bahauddin, Gujranwala, Hafizabad, Lahore, Mianwali, Khushab, Sargodha, Narowal, Chiniot, Toba Tek Singh, Faisalabad, Okara, Kasur, Layyah, Sahiwal, Bahawalnagar, Khanewal, Multan, Vehari, Dera Ghazi Khan, Rajanpur, Rahim Yar Khan, Bahawalpur",rain,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/13/2025,KPK,"Chitral, Dir, Swat, Madyan, Kalam, Malakand, Battagram, Balakot, Mansehra, Swabi, Swat, Haripur, Abbottabad, Mardan, Peshawar, Kohat, Hangu, Parachinar, Bannu, Lakki Marwat",rain,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/11/2025,Punjab,"Islamabad, Rawalpindi, Chakwal, Fateh Jhang, Attock, Talagang, and parts of southern Punjab, including Faisalabad, Sahiwal, Khanewal, Vehari, Bahawalnagar, Multan, Bahawalpur",rain,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/11/2025,Punjab,"Khan and Rajanpur northeastern Punjab, Nullah's originating from the Pir Panjal ",flood,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/11/2025,KPK,"Swat, Panjkora, Kalpani Nullah",flash flood,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/11/2025,Balochitan,"Ziarat, Quetta, Mastung, Kalat, Surab, Zhob, Barkhan, Musakhel, Loralai, Awaran, Khuzdar, Dera Bugti",flash flood,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/11/2025,Balochistan,"Quetta, Zhob, Ziarat, Kalat, Qilla Saifullah, Loralai, Barkhan, Awaran, Dera Bugti, Sibi, , Mastung, Khuzdar",rain,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/11/2025,GB,"Upper Kohistan (RD 200-240), Diamir and Astore (RD 340 - 380) Gilgit (RD 400) and Nagar (RD 460) along KKH and JSR",landslide,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/10/2025,KPK,"Kabul, Indus, Jhelum upstream Mangla and Chenab Tarbela ",flood,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/10/2025,KP,"Chitral, Dir, Swat, Malakand, Kalam, Naran, Manshera, Battagram, Abbottabad, Haripur, Mardan, Swabi, Peshawar, Parachinar, Bannu, Lakki Marwat, Tank, Dera Ismail Khan,",rain,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/10/2025,Balochistan,"Zhob, Qilla Saifullah, Loralai, Barkhan, Ziarat, Dera Bugti, Sibi, Chaman, Quetta, Mastung, Kalat, Surab, Khuzdar, Awaran, Panjgur",rain,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/10/2025,Punjab,"Islamabad, Mianwali, Khushab, Faisalabad, Okara, Sahiwal, Multan, Bahawalnagar",rain,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/10/2025,GB & KP,"Ghujerab River and Shimshal River at Hunza, Braldu River at Shigar, Husher and Saltaro rivers at Ghancha, and Uzhnu Gol in Chitral.",glof,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/9/2025,KP,"Dir, Swat, Besham, Malakand,Mansehra,Abbottabad, Haripur, Karak, Kohat, Kohistan, Nowshera, Peshawar, Mardan, Charsadda, Bannu, Buner, Swabi, Waziristan",rain,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/9/2025,Punjab,"include Jhelum, Chakwal, Talagang, Mandi Bahauddin, Sargodha, Hafizabad, Gujranwala, Gujrat, Sailkot, Faisalabad, Lahore, Narowal",rain,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/8/2025,KPK,"Kabul, Indus, Jhelum and Chenab",flood,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/8/2025,Balochistan,"Zhob, Loralai, Barkhan, Quetta, Dera Bugti, Noshki, Kharan, Khuzdar, Awaran, Panjgur, Washuk, Surab",rain,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/8/2025,GB,"Kohistan Lower (RD 180), Kolai Palas (RD 200), Nagar (RD 480), Hunza (RD 500), and JSR at multiple locations in Rondu",landslide,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/8/2025,Punjab,"Jhelum, Chakwal, Sargodha, Gujranwala, Gujrat, Faisalabad, Lahore, Hafizabad, Narowal, Kasur, Okara Sahiwal, Bhawalnagar, BHawalpur",rain,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/8/2025,KPK & GB,"Badswat, Ishkomen, Tersat Hundur, Hinarchi, Darkut, Shishper, Reshun, Booni, Brep, Sardar Gol, Thali 1 & 2, Arkari, Swat.",glof,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/8/2025,Pothohar Region,"Islamabad, Rawalpindi, Attock, Chakwal, Mianwali, Jhelum",rain,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/8/2025,KP,"Dir, Swat, Besham, Abbottabad, Mansehra, Haripur, Karak, Kohat, Kohistan, Nowshera, Peshawar, Mardan, Malakand, Charsadda, Bannu, Buner, Swabi, Waziristan",rain,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/7/2025,KPK,"Kabul, Indus, Jhelum and Chenab",flood,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/7/2025,Punjab,"Rawalpindi, Attock, Jhelum, Chakwal, Mianwali, Sargodha, Khushab, Gujranwala, Gujrat, Faisalabad, Lahore, Hafizabad, Narowal, Kasur, Layyah",rain,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/7/2025,KP,"Chitral, Dir, Swat, Mansehra, Abbottabad, Haripur, Karak, Kohat, Kohistan, Mohmand, Nowshera, Malakand, Charsadda, Bannu, Buner, Mardan, Peshawar, Swabi, Waziristan",rain,1,1,2025-07,2025-07-07/2025-07-13,True Positive
+7/6/2025,Punjab,"Rawalpindi, Attock, Jhelum, Chakwal, Mianwali, Sargodha, Khushab, Gujranwala, Gujrat, Faisalabad, Lahore, Hafizabad, Narowal, Kasur, Okara",rain,1,1,2025-07,2025-06-30/2025-07-06,True Positive
+7/5/2025,KP,"Chitral, Dir, Swat, Abbottabad, Mansehra, Haripur, Karak, Kohat, Kohistan, Khyber, Kurram, Mohmand, Nowshera, Malakand, Charsadda, Bannu, Buner, Hazara, Peshawar, Mardan, Swabi, Waziristan",rain,1,1,2025-07,2025-06-30/2025-07-06,True Positive
+7/5/2025,AJ&K,"Neelum Valley, Bagh, Kotli, Rawalakot, Muzaffarabad, Haveli",rain,1,1,2025-07,2025-06-30/2025-07-06,True Positive
+7/5/2025,KPK,"Kabul, Indus, and Chenab. Tarbela, Kalabagh and Chashma",flood,1,1,2025-07,2025-06-30/2025-07-06,True Positive
+7/5/2025,Punjab,"Islamabad, Rawalpindi, Attock, Jhelum, Chakwal, Mianwali, Sargodha, Khushab, Gujranwala, Gujrat, Faisalabad, Lahore, Narowal, Kasur, Okara, Multan, Khanewal, Bahawalpur, Bahawalnagar, Rahim Yar Khan",rain,1,1,2025-07,2025-06-30/2025-07-06,True Positive
+7/4/2025,Balochistan,"include Quetta, Zhob, Ziarat, Kalat, Khuzdar, Awaran, Barkhan, Kohlu, Sibi, Dera Bugti, Washuk, Surab, Kharan, Lasbela, and Loralai",rain,1,1,2025-07,2025-06-30/2025-07-06,True Positive
+7/4/2025,Sindh,"Sukkur, Nawabshah, Kashmore, Hyderabad, Karachi, Tharparkar, Mirpur Khas, Umerkot, Sanghar, Jamshoro, Tando Allahyar, Thatta, Badin, Mithi",rain,0,1,2025-07,2025-06-30/2025-07-06,False Positive
+7/4/2025,Pothohar Region,"Islamabad, Rawalpindi, Attock, Chakwal, Mianwali, Jhelum,",rain,1,1,2025-07,2025-06-30/2025-07-06,True Positive
+7/3/2025,Pakistan,All over Pakistan,rain,1,1,2025-07,2025-06-30/2025-07-06,True Positive
+7/3/2025,Balochistan,"Quetta, Zhob, Ziarat, Kalat, Khuzdar, Awaran, Barkhan, Jaffarabad, Kohlu, Sibi, Dera Bugti",rain,0,1,2025-07,2025-06-30/2025-07-06,False Positive
+7/3/2025,Sindh,"Sukkur, Nawabshah, Kashmore, Hyderabad, Karachi, Tharparkar, Mirpur Khas, Umerkot, Sanghar, Jamshoro, Tando Allahyar, Thatta, Badin, Tharparkar, Mirpur khas, Mithi,",rain,1,1,2025-07,2025-06-30/2025-07-06,True Positive
+7/3/2025,GB,Gilgit Baltistan and Upper KPK,flash flood,0,1,2025-07,2025-06-30/2025-07-06,False Positive
+7/3/2025,Upper Punjab,"Islamabad, Rawalpindi, Attock, Jhelum, Chakwal, Mianwali, Sargodha, Khushab, Gujranwala, Gujrat, Faisalabad, Lahore, Kasur, Okara",rain,1,1,2025-07,2025-06-30/2025-07-06,True Positive
+7/2/2025,Balochistan,"Ziarat, Harnai, Quetta, Mastung, Kalat, Surab, Zhob, Barkhan, Musakhel, Loralai, Awaran, Khuzdar",flash flood,1,1,2025-07,2025-06-30/2025-07-06,True Positive
+7/2/2025,Sindh,"Hyderabad, Sukkur, Thatta, Badin, Larkana, Jamshoro, Nawabshah, Karachi and Mirpurkhas",flood,1,1,2025-07,2025-06-30/2025-07-06,True Positive
+7/2/2025,Punjab,"Narowal, Sialkot, Gujrat, DG Khan, Rajanpur",flash flood,1,1,2025-07,2025-06-30/2025-07-06,True Positive
+7/2/2025,Punjab,"Lahore, Gujranwala, Gujrat, Sahiwal, Narowal, Sialkot, Faisalabad, Sheikhupura",flood,1,1,2025-07,2025-06-30/2025-07-06,True Positive
+7/2/2025,Northern Areas / AJK,"Central & Lower KPK, AJ&K , Indian Occupied Jammu Kashmir, North Eastern Parts of Punjab",flash flood,1,1,2025-07,2025-06-30/2025-07-06,True Positive
+7/2/2025,Upper KPK & GB,Gilgit Baltistan and Khyber Pakhtunkhwa,glof,1,1,2025-07,2025-06-30/2025-07-06,True Positive
+6/30/2025,Pothohar Region,"Islamabad, Rawalpindi, Attock, Chakwal, Mianwali, Jhelum",rain,1,1,2025-06,2025-06-30/2025-07-06,True Positive
+6/29/2025,KPK,"Chitral, Dir, Swat, Abbottabad, Mansehra, Haripur, Karak, Kohat, Kohistan, Khyber, Kurram, Mohmand, Nowshera, Malakand, Charsadda, Bannu, Buner, Hazara, Peshawar, Mardan, Swabi, Waziristan,",rain,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/29/2025,GB & AJK,"Hunza, Skardu, Astore, Chilas, and surrounding regions. However, in AJ&K, the expected rainfall may impact Neelum Valley, Bagh, Kotli, Rawalakot, Muzaffarabad, Haveli",rain,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/29/2025,Pothohar Region,"Islamabad, Rawalpindi, Attock, Jhelum, Chakwal",rain,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/29/2025,Sindh,"Hyderabad, Badin, Thatta, Karachi",flood,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/29/2025,Northern Areas,"Hazara & Malakand Divisions of KPK, AJ&K lowers parts of Jhelum Valley & Poonch Valley, Pir Panjal Range of North eastern Punjab. Low level flood in Kabul and Swat river.",flash flood,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/29/2025,Potohar Region & KPK,"Potohar region, Islamabad and Upper & Central Khyber Pakhtunkhwa",flood,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/28/2025,GB,"Badswat, Hinarchi, Tursat Hundur, Darkut, Ishkoman.",glof,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/28/2025,GB and AJ&K,"Hunza, Skardu, Astore, Chilas, Neelum Valley, Bagh, Kotli, Rawalakot, Muzaffarabad, Haveli",rain,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/28/2025,KP,"Upper Dir, Reshun, Booni, Brep, Sardar Gol, Arkari, Dir Gol, Thalu 1 & 2, Kumrat Valley, Chitral, SwQuetta, Zhob, Loralai, Ziarat, Kalat, Musakhel, Khuzdar, Awaran, Barkhan, Jaffarabad, Kohlu, Sibi, Dera Bugti, attack",glof,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/28/2025,Balochistan,"Quetta, Zhob, Loralai, Ziarat, Kalat, Musakhel, Khuzdar, Awaran, Barkhan, Jaffarabad, Kohlu, Sibi, Dera Bugti,",rain,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/28/2025,KPK,"Chitral, Dir, Swat, Abbottabad, Mansehra, Haripur, Karak, Kohat, Kohistan, Khyber, Kurram, Mohmand, Nowshera, Malakand, Charsadda, Bannu, Buner, Hazara, Peshawar, Mardan, Swabi, Waziristan,",rain,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/28/2025,Punjab,"Murree, Galiyat, Islamabad, Rawalpindi, Attock, Chakwal, Jhelum, Mianwali, Mandi Bahauddin, Gujranwala, Gujrat, Hafizabad, Khushab, Sargodha, Narowal, Chiniot, Toba Tek Singh, Faisalabad, Lahore, Okara, Kasur",rain,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/28/2025,Sindh,"Sukkur, Jacobabad, Dadu, Nawabshah, Kashmore, Hyderabad, Tharparkar, Mirpur Khas, Umerkot, Sanghar, Jamshoro, Tando Allahyar, Thatta, Badin, Tharparkar, Mirpur khas, Mithi, Karachi",rain,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/27/2025,Balochistan,"Zhob, Loralai, Ziarat, Kalat, Musakhel, Khuzdar, Awaran, Barkhan, Sibbi, Jaffarabad, Kohlu, Sibi, Dera Bugti",rain,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/27/2025,Punjab,"Murree, Galiyat, Islamabad, Rawalpindi, Attock, Chakwal, Jhelum, Mianwali, Mandi Bahauddin, Gujranwala, Gujrat, Hafizabad, Khushab, Sargodha, Narowal, Chiniot, Toba Tek Singh, Faisalabad, Lahore, Okara, Kasur",rain,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/27/2025,Sindh,"Jacobabad, Sukkur, Larkana, Nawabshah, Khairpur, Kashmore, Hyderabad, Tharparkar, Mirpur Khas, Umerkot, Sanghar, Jamshoro, Tando Allahyar, Tando Muhammad Khan, Thatta, Badin, Karachi",rain,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/27/2025,KPK,"Chitral, Dir, Swat, Abbottabad, Mansehra, Haripur, Karak, Kohat, Kohistan, Khyber, Kurram, Mohmand, Nowshera, Malakand, Charsadda, Bannu, Buner, Hazara, Peshawar, Mardan, Swabi, Waziristan",rain,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/27/2025,KPK & AJK,"Hazara & Malakand Divisions of KPK, AJ&K lowers parts of Jhelum Valley & Poonch Valley, Pir Panjal Range of North eastern Punjab",flood,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/26/2025,Punjab,"Narowal, Sialkot, Gujrat, Gujranwala as well as the system is intensifying over southern parts like Muzaffargarh, Rajanpur , D.G Khan, Multan",flash flood,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/26/2025,GB & KPK,"Swat River, Kabul River, Hunza like Kunjrab River, Ghujerab River, Kilik River ,Chapursan River and Shimshal Braldu River.",flash flood,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/26/2025,Sindh,"Hyderabad, Karachi, Thatta, Jamshoro, Shaheed Benazirabad, Sujawal.",flood,0,1,2025-06,2025-06-23/2025-06-29,False Positive
+6/26/2025,Punjab,"Rawalpindi, Gujranwala, Lahore, Multan, Bahawalpur and Rahim Yar Khan",flood,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/26/2025,Sindh,"Jacobabad, Sukkur, Larkana, Nawab Shah, Khairpur, Kashmore, Hyderabad, Tharparkar, Mirpur Khas, Umerkot, Sanghar, Jamshoro, Tando Allahyar, Tando Muhammad Khan, Thatta, Badin and Karachi",rain,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/26/2025,Punjab,"Islamabad, Rawalpindi, Attock, Chakwal, Jhelum, Gujrat, Mandi Bahauddin, Gujranwala, Hafizabad, Lahore, Mianwali, Khushab, Sargodha, Narowal, Chiniot, Toba Tek Singh, Faisalabad, Okara, Kasur, Layyah, Sahiwal, Multan, Khanewal, Vehari, Bahawalnagar, Bahawalpur, Dera Ghazi Khan, Rajanpur, Rahim Yar Khan",rain,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/25/2025,Upper KPK & GB,"Reshun, Brep, Booni, Sardar Gol, Thalu 1&2, Badswat, Hinarchi, Darkut, Hundur.",glof,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/25/2025,AJ&K,"Bagh, Rawalakot, Neelum Valley, Muzaffarabad, Haveli, Hattian Bala, Mirpur",thunderstorm,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/25/2025,Sindh,"Sukkur, Larkana, Jacobabad, Khairpur, Karachi, Hyderabad, Tharparkar, Mirpur Khas, Thatta, Badin",thunderstorm,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/25/2025,KPK,"Chitral, Dir, Swat, Abbottabad, Mansehra, Haripur, Karak, Kohat, Kohistan, Khyber, Kurram, Mohmand, Nowshera, Malakand, Charsadda, Bannu, Buner, Hazara, Peshawar, Mardan, Swabi, Waziristan",thunderstorm,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/25/2025,Punjab,"Islamabad, Rawalpindi, Attock, Chakwal, Jhelum, Mianwali, Hafizabad, Sargodha, Faisalabad, Sialkot, Narowal, Okara, Lahore, Kasur, Gujranwala, Gujrat, Multan, Bahawalpur, Bahawalnagar, Rahim Yar Khan, Dera Ghazi Khan",thunderstorm,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/24/2025,GB & AJK,"Astore, Skardu, Hunza, Shigar, Ghizer, Ghanche, Diamer, Nagar, Gilgit Bagh, Rawalakot, Neelum Valley, Muzaffarabad, Haveli, Hattian Bala",thunderstorm,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/24/2025,Sindh,"Sukkur, Larkana, Jacobabad, Khairpur, Karachi, Hyderabad, Tharparkar, Mirpur Khas, Thatta, Badin",thunderstorm,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/24/2025,Balochistan,"Ziarat, Kalat, Musakhel, Khuzdar, Awaran, Barkhan Sibbi, Jaffarabad, Dera Bugti",thunderstorm,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/24/2025,Punjab,Gujranwala and Lahore Divisions,flood,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/24/2025,KPK,"Chitral, Dir, Haripur, Karak, Kohat, Kohistan, Khyber, Kurram, Mansehra, Mohmand, Nowshera, Malakand, Charsadda, Abbottabad, Bannu, Buner, Hazara, Peshawar, Swabi, Swat, Waziristan,",thunderstorm,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/24/2025,Punjab,"Islamabad, Rawalpindi, Murree, Galliyat, Attock, Chakwal, Jhelum, Mianwali, Hafizabad, Sargodha, Faisalabad, Sialkot, Narowal, Okara, Lahore, Gujranwala, Gujrat, Multan, Bahawalpur, Bahawalnagar, Rahim yar Khan, Dera Ghazi Khan",thunderstorm,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/24/2025,Islamabad/ Rawalpindi,Islamabad and Rawalpindi,rain,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/24/2025,Lahore,Lahore,thunderstorm,1,1,2025-06,2025-06-23/2025-06-29,True Positive
+6/22/2025,Punjab,"Gujranwala, Sargodha, Sahiwal, Faisalabad, Lahore, Narowal, Kasur, Okara",rain,0,1,2025-06,2025-06-16/2025-06-22,False Positive
+6/21/2025,Pothohar Region,"Islamabad, Rawalpindi, Attock, Chakwal, Jhelum",rain,1,1,2025-06,2025-06-16/2025-06-22,True Positive
+6/21/2025,GB & AJK,Gilgit Baltistan and Kashmir,flash flood,1,1,2025-06,2025-06-16/2025-06-22,True Positive
+6/21/2025,KPK,"Chitral, Dir, Swat, Shangla, Buner, Malakand, Kohat, Nowshera, Charsadda, Swabi, Peshawar, Mardan, Abbottabad, Mansehra, Haripur",thunderstorm,1,1,2025-06,2025-06-16/2025-06-22,True Positive
+6/21/2025,Pothohar Region,"Islamabad, Rawalpindi, Attock, Chakwal, Jhelum",rain,1,1,2025-06,2025-06-16/2025-06-22,True Positive
+6/20/2025,"GB, AJK, KPK, and Upper Punjab","Gilgit-Baltistan, Azad Jammu and Kashmir, Khyber Pakhtunkhwa, and Upper Punjab",thunderstorm,1,1,2025-06,2025-06-16/2025-06-22,True Positive
+6/18/2025,Sindh and Punjab,"Turbat, Dadu, Moenjo-Daro, Malir, Korangi, Peshawar, Bannu, Karachi, Sibi, Gotki, Khairpur, Lahore, Rahimyar Khan, Sargodha, Faisalabad, Multan, Bahawalpur, Dera Ismail Khan, Jacobabad, Lodhran",heat wave,1,1,2025-06,2025-06-16/2025-06-22,True Positive
+6/18/2025,Pakistan,"Sindh, Punjab (including the Potohar region), Balochistan, and southern Khyber Pakhtunkhwa in recent days.",drought,0,1,2025-06,2025-06-16/2025-06-22,False Positive
+6/13/2025,Pothohar Region,"Islamabad, Rawalpindi, Attock, Jhelum, Chakwal",rain,1,1,2025-06,2025-06-09/2025-06-15,True Positive
+6/13/2025,KPK,"Chitral, Dir, Swat, Kohistan, Shangla, Malakand, Batagram, Abbottabad, Haripur, Kurram",thunderstorm,0,1,2025-06,2025-06-09/2025-06-15,False Positive
+6/10/2025,Upper KPK and GB,Upper Khyber Pakhtunkhwa and Gilgit-Baltistan,glof,0,1,2025-06,2025-06-09/2025-06-15,False Positive
+6/10/2025,Pakistan,"Badin, Thatta, Rajanpur, Malir, Korangi, Umerkot, Larkana, Karachi, Mirpurkhas, Ghotki, Khairpur, Lahore, Rahimyar Khan, Sanghar, Sukkur, Multan, Bahawalpur, Tando Allahyar, Jacobabad, Lodhran, Mohenjo‑daro, Dadu, and Shaheed Benazirabad",heat wave,1,1,2025-06,2025-06-09/2025-06-15,True Positive
+6/4/2025,KPK,"Malakand Division (Chitral, Dir, Swat, Malakand), Peshawar Division (Peshawar, Nowshera, Charsadda, Mohmand, Khyber), Mardan Division (Mardan, Swabi), Hazara Division (Haripur, Abbottabad, Mansehra, Battagram, Shangla, Kohistan), Kohat Division (Kohat, Karak, Orakzai, Kurram), and Bannu Division (Bannu, North and South Waziristan)",thunderstorm,1,1,2025-06,2025-06-02/2025-06-08,True Positive
+6/4/2025,Islamabad/Rawalpindi,Islamabad/Rawalpindi,rain,0,1,2025-06,2025-06-02/2025-06-08,False Positive
